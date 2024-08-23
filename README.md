@@ -236,14 +236,14 @@ If you use this project and you like it, [please let me know](https://saythanks.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#332](https://github.com/AdvancedPhotonSource/tike/pull/332#issuecomment-2302638814) in [AdvancedPhotonSource/tike](https://github.com/AdvancedPhotonSource/tike)
-2. 🗣 Commented on [#336](https://github.com/OpenFreeEnergy/gufe/pull/336#issuecomment-2302523116) in [OpenFreeEnergy/gufe](https://github.com/OpenFreeEnergy/gufe)
-3. 🗣 Commented on [#4046](https://github.com/privacyidea/privacyidea/pull/4046#issuecomment-2302374295) in [privacyidea/privacyidea](https://github.com/privacyidea/privacyidea)
-4. 🗣 Commented on [#5842](https://github.com/rhinstaller/anaconda/pull/5842#issuecomment-2301798158) in [rhinstaller/anaconda](https://github.com/rhinstaller/anaconda)
-5. 🗣 Commented on [#5829](https://github.com/rhinstaller/anaconda/pull/5829#issuecomment-2301732826) in [rhinstaller/anaconda](https://github.com/rhinstaller/anaconda)
-6. 🗣 Commented on [#7](https://github.com/eastgenomics/GitHub_Actions/pull/7#issuecomment-2301500360) in [eastgenomics/GitHub_Actions](https://github.com/eastgenomics/GitHub_Actions)
-7. 🗣 Commented on [#5](https://github.com/eastgenomics/phoenix/pull/5#issuecomment-2301394773) in [eastgenomics/phoenix](https://github.com/eastgenomics/phoenix)
-8. 🗣 Commented on [#712](https://github.com/HEXRD/hexrd/pull/712#issuecomment-2299844615) in [HEXRD/hexrd](https://github.com/HEXRD/hexrd)
-9. 🗣 Commented on [#711](https://github.com/HEXRD/hexrd/pull/711#issuecomment-2299440347) in [HEXRD/hexrd](https://github.com/HEXRD/hexrd)
-10. 🗣 Commented on [#3328](https://github.com/dipy/dipy/pull/3328#issuecomment-2299184723) in [dipy/dipy](https://github.com/dipy/dipy)
+1. 🗣 Commented on [#333](https://github.com/AdvancedPhotonSource/tike/pull/333#issuecomment-2305562815) in [AdvancedPhotonSource/tike](https://github.com/AdvancedPhotonSource/tike)
+2. 🗣 Commented on [#436](https://github.com/aria-tools/ARIA-tools/pull/436#issuecomment-2305469135) in [aria-tools/ARIA-tools](https://github.com/aria-tools/ARIA-tools)
+3. 🗣 Commented on [#6](https://github.com/ucsusa/2024-kansas-city-analysis/pull/6#issuecomment-2305367472) in [ucsusa/2024-kansas-city-analysis](https://github.com/ucsusa/2024-kansas-city-analysis)
+4. 🗣 Commented on [#2965](https://github.com/metabrainz/listenbrainz-server/pull/2965#issuecomment-2305225110) in [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server)
+5. 🗣 Commented on [#22372](https://github.com/spyder-ide/spyder/pull/22372#issuecomment-2305190986) in [spyder-ide/spyder](https://github.com/spyder-ide/spyder)
+6. 🗣 Commented on [#184](https://github.com/Moonlark-Dev/Moonlark/pull/184#issuecomment-2304977576) in [Moonlark-Dev/Moonlark](https://github.com/Moonlark-Dev/Moonlark)
+7. 🗣 Commented on [#239](https://github.com/lettucecfd/lettuce/pull/239#issuecomment-2304962683) in [lettucecfd/lettuce](https://github.com/lettucecfd/lettuce)
+8. 🗣 Commented on [#1635](https://github.com/spacetelescope/jwql/pull/1635#issuecomment-2304862319) in [spacetelescope/jwql](https://github.com/spacetelescope/jwql)
+9. 🗣 Commented on [#5847](https://github.com/rhinstaller/anaconda/pull/5847#issuecomment-2304652966) in [rhinstaller/anaconda](https://github.com/rhinstaller/anaconda)
+10. 🗣 Commented on [#197](https://github.com/lettucecfd/lettuce/pull/197#issuecomment-2304503508) in [lettucecfd/lettuce](https://github.com/lettucecfd/lettuce)
 <!--END_SECTION:activity-->
