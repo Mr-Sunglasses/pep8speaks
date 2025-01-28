@@ -236,14 +236,14 @@ If you use this project and you like it, [please let me know](https://saythanks.
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/2lambda123/eclipse-syson-syson/pull/1#issuecomment-2614490897) in [2lambda123/eclipse-syson-syson](https://github.com/2lambda123/eclipse-syson-syson)
-2. 🗣 Commented on [#3149](https://github.com/metabrainz/listenbrainz-server/pull/3149#issuecomment-2614262275) in [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server)
-3. 🗣 Commented on [#362](https://github.com/Moonlark-Dev/Moonlark/pull/362#issuecomment-2613839663) in [Moonlark-Dev/Moonlark](https://github.com/Moonlark-Dev/Moonlark)
-4. 🗣 Commented on [#361](https://github.com/Moonlark-Dev/Moonlark/pull/361#issuecomment-2613765513) in [Moonlark-Dev/Moonlark](https://github.com/Moonlark-Dev/Moonlark)
-5. 🗣 Commented on [#602](https://github.com/oemof/tespy/pull/602#issuecomment-2613392046) in [oemof/tespy](https://github.com/oemof/tespy)
-6. 🗣 Commented on [#3148](https://github.com/metabrainz/listenbrainz-server/pull/3148#issuecomment-2613290630) in [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server)
-7. 🗣 Commented on [#3147](https://github.com/metabrainz/listenbrainz-server/pull/3147#issuecomment-2612941697) in [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server)
-8. 🗣 Commented on [#27](https://github.com/ITMO-NSS-team/Open-Source-Advisor/pull/27#issuecomment-2612344220) in [ITMO-NSS-team/Open-Source-Advisor](https://github.com/ITMO-NSS-team/Open-Source-Advisor)
-9. 🗣 Commented on [#30](https://github.com/ERPGulf/zatca_erpgulf/pull/30#issuecomment-2612296288) in [ERPGulf/zatca_erpgulf](https://github.com/ERPGulf/zatca_erpgulf)
-10. 🗣 Commented on [#29](https://github.com/ERPGulf/zatca_erpgulf/pull/29#issuecomment-2612037140) in [ERPGulf/zatca_erpgulf](https://github.com/ERPGulf/zatca_erpgulf)
+1. 🗣 Commented on [#1018](https://github.com/ToFuProject/tofu/pull/1018#issuecomment-2616523281) in [ToFuProject/tofu](https://github.com/ToFuProject/tofu)
+2. 🗣 Commented on [#3152](https://github.com/metabrainz/listenbrainz-server/pull/3152#issuecomment-2616347427) in [metabrainz/listenbrainz-server](https://github.com/metabrainz/listenbrainz-server)
+3. 🗣 Commented on [#8](https://github.com/This-is-XiaoDeng/nonebot-plugin-maimai-qrhelper/pull/8#issuecomment-2616092074) in [This-is-XiaoDeng/nonebot-plugin-maimai-qrhelper](https://github.com/This-is-XiaoDeng/nonebot-plugin-maimai-qrhelper)
+4. 🗣 Commented on [#10](https://github.com/ERPGulf/myinvois/pull/10#issuecomment-2615479217) in [ERPGulf/myinvois](https://github.com/ERPGulf/myinvois)
+5. 🗣 Commented on [#1](https://github.com/Code-Institute-Solutions/streamlit-lesson/pull/1#issuecomment-2615385069) in [Code-Institute-Solutions/streamlit-lesson](https://github.com/Code-Institute-Solutions/streamlit-lesson)
+6. 🗣 Commented on [#1077](https://github.com/avaframe/AvaFrame/pull/1077#issuecomment-2615376308) in [avaframe/AvaFrame](https://github.com/avaframe/AvaFrame)
+7. 🗣 Commented on [#364](https://github.com/Moonlark-Dev/Moonlark/pull/364#issuecomment-2615136785) in [Moonlark-Dev/Moonlark](https://github.com/Moonlark-Dev/Moonlark)
+8. 🗣 Commented on [#528](https://github.com/Spoken-tutorial/spoken-website/pull/528#issuecomment-2615065989) in [Spoken-tutorial/spoken-website](https://github.com/Spoken-tutorial/spoken-website)
+9. 🗣 Commented on [#9](https://github.com/ERPGulf/myinvois/pull/9#issuecomment-2615031368) in [ERPGulf/myinvois](https://github.com/ERPGulf/myinvois)
+10. 🗣 Commented on [#1](https://github.com/2lambda123/eclipse-syson-syson/pull/1#issuecomment-2614490897) in [2lambda123/eclipse-syson-syson](https://github.com/2lambda123/eclipse-syson-syson)
 <!--END_SECTION:activity-->
